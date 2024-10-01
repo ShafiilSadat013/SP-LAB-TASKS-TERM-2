@@ -9,7 +9,7 @@ int main()
         scanf("%d",&arr[i]);
 
     }
-    printf("Rversed array is ");
+    printf("Reversed array is ");
     for(int i=x-1;i>=0;--i)
     {
         printf("%d ",arr[i]);
